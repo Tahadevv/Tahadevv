@@ -22,7 +22,7 @@ Code is my medium, and through it, I solve real-world problems!</h2>
 <p align="left">
 	<a href="https://www.linkedin.com/in/tahakk/" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://leetcode.com/u/tahak6715/" target="blank"><img align="center" style="border-radius:12px;" src="./icons/leetcode1.png"
+	<a href="https://leetcode.com/u/tahak6715/" target="blank"><img align="center" style="border-radius:12px;" src="[./icons/leetcode1.png](https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000)"
 			alt="leetcode" height="50" width="50" /></a>
 	<a href="https://instagram.com/tahak_1001" target="blank" style="padding:8px"><img align="center"
 			src="https://skillicons.dev/icons?i=instagram" alt="tahadevv" height="50" width="50" /></a>
