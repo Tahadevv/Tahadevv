@@ -1,29 +1,23 @@
 
-<h2 align="center">In the world of bits and bytes, where art meets science, I found my passion<br>
-As code is my canvas for crafting masterpieces!</h2>
+<h2 align="center">In the digital realm where creativity merges with logic, I discovered my </br>passion—
+Code is my medium, and through it, I solve real-world problems!</h2>
 
-<!-- <img alt="Coding" style="border-radius:20px;" src="./myAssets/github-banner.jpeg"> -->
+
 
 <p style="margin-top: 6px; line-height:26x; font-size:16spx;">
-	A young and enthusiastic individual Making Code Beneficial who also likes to Develop, Design, Innovate, Experiment and take up new challenges with long exited journey to go. He thinks
-	in a pragmatic way and is always learning new skills and applying those skills in practical life is a great delight.
-	Keeps a strong eye for clean, efficient and secure coding practices and has keen understanding of Logic Building.
-	Unlikely others loves BackEnd Technicalities and Competitive Programming(C++) is his Hobby. He also loves meeting
-	new people, exchanging ideas and spreading knowledge and positivity other than that he could be found helping others
-	learn Programming. Seeks to join a dynamic and progressive organization offering ample opportunities and diversified
-	exposure where he could enhance his experience.</p>
+	I’m a tech enthusiast who thrives on creating, designing, and pushing boundaries. Challenges are my fuel, and my journey in the tech world is all about curiosity and growth. My approach is rooted in practical solutions, always expanding my knowledge and applying it where it matters most. My coding style is sharp, secure, and efficient, with a strong focus on logical thinking. Unlike many, I find joy in backend systems, and I’m particularly drawn to technologies like Next.js, JavaScript, PostgreSQL, Python, and Generative AI. I love connecting with others, sharing innovative ideas, and creating a space where learning thrives. I’m eager to contribute to a dynamic organization that offers opportunities for growth and diverse experiences.</p>
 
 | Currently Learning | Gen AI, ABAP |
 | ------------------ | ----------- |
 
 <p align="center">
 	<a href="https://tahakhan.vercel.app/" align="center" target="_blank"
-		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
-		PORTFOLIO WEBSITE</a>
+		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">PERSONAL
+		PORTFOLIO </a>
 </p>
 
 <hr>
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
+<h3 align="left">📫 let's Connect 🔗 :</h3>
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/tahakk/" target="blank"><img align="center"
@@ -31,7 +25,7 @@ As code is my canvas for crafting masterpieces!</h2>
 	<a href="https://leetcode.com/u/tahak6715/" target="blank"><img align="center" style="border-radius:12px;" src="./icons/leetcode1.png"
 			alt="leetcode" height="50" width="50" /></a>
 	<a href="https://instagram.com/tahak_1001" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" /></a>
+			src="https://skillicons.dev/icons?i=instagram" alt="tahadevv" height="50" width="50" /></a>
 </p>
 <hr>
 
@@ -43,10 +37,7 @@ As code is my canvas for crafting masterpieces!</h2>
 <br>
 <img src="https://skillicons.dev/icons?i=materialui,npm,ts,express,mongodb" />
 <img src="https://skillicons.dev/icons?i=nodejs,postman,postgres,docker,nestjs" />
-	<!-- <a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
-		style="text-decoration: none;">
-		<img src="./imgs/dialogflow.png" width="45px" />
-	</a> -->
+	
 </p>
 
 <hr>
