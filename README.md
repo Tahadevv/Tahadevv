@@ -40,8 +40,8 @@ I’m a **Computer Science student** passionate about building **scalable web ap
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahadev&show_icons=true&theme=algolia" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahadev&theme=algolia" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahadevv&show_icons=true&theme=algolia" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahadevv&theme=algolia" alt="Streak Stats">
 </p>
 
 ---
