@@ -20,7 +20,7 @@ I’m a **Computer Science student** passionate about building **scalable web ap
 ### 🛠️ **Technical Toolkit**
 | **Frontend**      | **Backend**       | **AI/ML & Tools**       |
 |-------------------|-------------------|-------------------------|
-| React.js / Next.js | Node.js / Express | Python / Mistral-7B     |
+| React.js / Next.js | Node.js / Express | Python / LLM's     |
 | TypeScript        | RESTful APIs      | LangChain / RAG         |
 | Tailwind CSS      | PostgreSQL        | AWS Lambda / Docker     |
 | Redux Toolkit     | MongoDB           | Jest / Postman          |
