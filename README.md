@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://tahakhan.vercel.app/" target="_blank">
+  <a href="https://taha-alpha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/tahakk/" target="_blank">
@@ -48,7 +48,7 @@ I’m a **Computer Science student** passionate about building **scalable web ap
 
 ### 🌱 **Currently Learning**
 <img src="https://skillicons.dev/icons?i=aws,threejs,rust,kubernetes" height="40" />  
-**Generative AI** | **ABAP** | **WebAssembly**
+**Generative AI** 
 
 ---
 
