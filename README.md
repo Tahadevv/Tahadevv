@@ -1,69 +1,62 @@
-
-<h2 align="center">In the digital realm where creativity merges with logic, I discovered my </br>passion—
-Code is my medium, and through it, I solve real-world problems!</h2>
-
-
-
-<p style="margin-top: 6px; line-height:26x; font-size:16spx;">
-	I’m a tech enthusiast who thrives on creating, designing, and pushing boundaries. Challenges are my fuel, and my journey in the tech world is all about curiosity and growth. My approach is rooted in practical solutions, always expanding my knowledge and applying it where it matters most. My coding style is sharp, secure, and efficient, with a strong focus on logical thinking. Unlike many, I find joy in backend systems, and I’m particularly drawn to technologies like Next.js, JavaScript, PostgreSQL, Python, and Generative AI. I love connecting with others, sharing innovative ideas, and creating a space where learning thrives. I’m eager to contribute to a dynamic organization that offers opportunities for growth and diverse experiences.</p>
-
-| Currently Learning | Gen AI, ABAP |
-| ------------------ | ----------- |
+<h1 align="center">👋 Hi, I'm Taha Khan</h1>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-	<a href="https://tahakhan.vercel.app/" align="center" target="_blank"
-		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">PERSONAL
-		PORTFOLIO </a>
+  <a href="https://tahakhan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/tahakk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<hr>
-<h3 align="left">📫 let's Connect 🔗 :</h3>
+---
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/tahakk/" target="blank"><img align="center"
-			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://instagram.com/tahak_1001" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="tahadevv" height="50" width="50" /></a>
-</p>
-<hr>
+### 🚀 **About Me**
+I’m a **Computer Science student** passionate about building **scalable web apps** and exploring **AI/ML innovations**. My coding philosophy revolves around simplicity, efficiency, and solving real-world problems. I thrive on challenges—whether it’s optimizing backend performance with Node.js or crafting interactive UIs with React. Currently diving deep into **Generative AI** and **RAG systems**!
 
-<h3 align="left">Languages and Tools ⚙️ : </h3>
+---
 
-<p align='center'>
-<img src="https://skillicons.dev/icons?i=git,linux,c,css,js" />
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,redux,supabase" />
-<br>
-<img src="https://skillicons.dev/icons?i=materialui,npm,ts,express,mongodb" />
-<img src="https://skillicons.dev/icons?i=nodejs,postman,postgres,docker,nestjs" />
-	
-</p>
+### 🛠️ **Technical Toolkit**
+| **Frontend**      | **Backend**       | **AI/ML & Tools**       |
+|-------------------|-------------------|-------------------------|
+| React.js / Next.js | Node.js / Express | Python / Mistral-7B     |
+| TypeScript        | RESTful APIs      | LangChain / RAG         |
+| Tailwind CSS      | PostgreSQL        | AWS Lambda / Docker     |
+| Redux Toolkit     | MongoDB           | Jest / Postman          |
 
-<hr>
+---
 
-<h3 align="left">🏫 Plans of Learning :</h3>
+### 🔥 **Highlighted Projects**
+#### 🤖 **AI-Powered Chatbot for Jerolive**
+- Built with **Hugging Face’s Mistral-7B** and **LangChain**, handling **500+ daily queries** at **95% accuracy**.
+- Deployed on **AWS Lambda** with a **RAG system**, slashing response time by **40%**.
 
+#### 📱 **Khatta App (Android)**
+- Full-stack finance app with **React Native** (frontend) and **Node.js + MongoDB** (backend).
+- Features: Real-time sync, PDF invoicing, and **30% faster load times** via **Redux Toolkit**.
+
+---
+
+### 📈 **GitHub Stats**
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=aws,threejs,redis,jest" />
-	<img src="https://skillicons.dev/icons?i=rust,wasm,kubernetes,swift" />
-	
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tahadev&show_icons=true&theme=algolia" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahadev&theme=algolia" alt="Streak Stats">
 </p>
-<hr>
-<br>
 
+---
 
+### 🌱 **Currently Learning**
+<img src="https://skillicons.dev/icons?i=aws,threejs,rust,kubernetes" height="40" />  
+**Generative AI** | **ABAP** | **WebAssembly**
 
-<div align='center'>
-	<h3> ✍️ Random Dev Quote </h3>
-	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
-</div>
+---
 
-<hr>
-<br>
+### 💡 **Dev Philosophy**
+> *"Code is art—clean, logical, and impactful. I build systems that don’t just work but inspire."*
 
+---
 
-
-<hr>
-<br>
-
-
+📫 **Let’s Collaborate!**  
+Reach out at **iamtahakhan3@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/tahakk/).  
+**Open to internships and projects in Full Stack Development & AI/ML!**
