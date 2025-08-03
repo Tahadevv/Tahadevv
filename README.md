@@ -1,23 +1,34 @@
-# Taha Khan | Full Stack Developer
+a# Taha Khan | Full Stack Developer
 
-Computer Science Graduate • MERN Stack Specialist • AI/ML Enthusiast
+Computer Science Graduate • MERN Stack Specialist • Mobile App Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://taha-alpha.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tahakhann.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahakk/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tahak6715@gmail.com)
 
 ## About
 
-Full Stack Developer with expertise in modern web and mobile technologies. Currently focused on building scalable applications and integrating AI/ML solutions. Based in Karachi, Pakistan.
+Hi, I'm Taha Khan, a Computer Science graduate and skilled Full-Stack Developer with hands-on expertise in modern web and mobile technologies.I specialize in JavaScript, React, React Native, Next.js, Node.js, MongoDB, Restful APIs, third-party API integration, and LLM (Large Language Model) integrations.
 
-## Tech Stack
+## 🛠️ Technologies I Have Worked With:
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS  
-**Mobile:** React Native  
-**Backend:** Node.js, Express.js, Python, FastAPI  
-**Database:** MongoDB, PostgreSQL, Supabase  
-**AI/ML:** OpenAI API, LangChain, LLM Integration  
-**Tools:** Git, GitHub, Docker, AWS
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+</p>
 
 ## Projects
 
@@ -40,18 +51,11 @@ Full-stack solutions built with modern technologies
 - RESTful API development
 - Database design and optimization
 
-## Experience
-
-**React Native Developer** • Al-Mustafa Garments • Nov 2024 - Feb 2025  
-Mobile app development and performance optimization
-
-**MERN Stack Developer** • Dream Network • Aug 2022 - Oct 2024  
-Full-stack web development using MERN stack
-
 ## Education
 
-**Computer Science Graduate** • Dawood University, Karachi  
+**Computer Science Graduate** • Dawood University Of Engineering & Technology Karachi
 **Front-End Development** • Jawan Pakistan, Karachi
+**AI & Chatbot Development** • Saylani Mass IT
 
 **Internships:**
 - Information Technology Intern • Ghandhara Tyre Ltd.
