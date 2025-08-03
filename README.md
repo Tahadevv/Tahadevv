@@ -2,24 +2,13 @@
 
 Computer Science Graduate • MERN Stack Specialist • Mobile App Engineer
 
-<p align="left">
-  <a href="https://taha-alpha.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/tahakk/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tahak6715@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
-  </a>
-  <a href="https://github.com/Tahadevv" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://taha-alpha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahakk/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tahak6715@gmail.com)
 
 ## About
 
-Full Stack Developer with expertise in modern web and mobile technologies. Currently focused on building scalable applications and integrating AI/ML solutions. Based in Karachi, Pakistan.
+Hi, I'm Taha Khan, a Computer Science graduate and skilled Full-Stack Developer with hands-on expertise in modern web and mobile technologies.I specialize in JavaScript, React, React Native, Next.js, Node.js, MongoDB, Restful APIs, third-party API integration, and LLM (Large Language Model) integrations.
 
 ## Technologies I Have Worked With:
 
@@ -80,14 +69,6 @@ Enterprise RAG chatbot for Jerolive software company
 - FastAPI with Microsoft LLM integration
 - Hugging Face transformers with memory management
 - FAISS vector database for efficient document retrieval
-
-## Experience
-
-**React Native Developer** • Al-Mustafa Garments • Nov 2024 - Feb 2025  
-Mobile app development and performance optimization
-
-**MERN Stack Developer** • Dream Network • Aug 2022 - Oct 2024  
-Full-stack web development using MERN stack
 
 ## Education
 
