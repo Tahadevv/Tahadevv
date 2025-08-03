@@ -1,4 +1,4 @@
-a# Taha Khan | Full Stack Developer
+# Taha Khan | Full Stack Developer
 
 Computer Science Graduate • MERN Stack Specialist • Mobile App Developer
 
