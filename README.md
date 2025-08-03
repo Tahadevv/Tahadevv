@@ -10,7 +10,7 @@ Computer Science Graduate • MERN Stack Specialist • AI/ML Enthusiast
 
 Full Stack Developer with expertise in modern web and mobile technologies. Currently focused on building scalable applications and integrating AI/ML solutions. Based in Karachi, Pakistan.
 
-## 🛠️ Technologies I Have Worked With:
+## Technologies I Have Worked With:
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -30,7 +30,7 @@ Full Stack Developer with expertise in modern web and mobile technologies. Curre
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [NeuroCare Chatbot](https://github.com/Tahadevv/NEUROCARE_CHATBOT)
 AI mental health chatbot powered by Mistral 7B model
