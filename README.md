@@ -1,10 +1,21 @@
 # Taha Khan | Full Stack Developer
 
-Computer Science Graduate • MERN Stack Specialist • AI/ML Enthusiast
+Computer Science Graduate • MERN Stack Specialist • Mobile App Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://taha-alpha.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahakk/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tahak6715@gmail.com)
+<p align="left">
+  <a href="https://taha-alpha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/tahakk/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tahak6715@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  </a>
+  <a href="https://github.com/Tahadevv" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+  </a>
+</p>
 
 ## About
 
