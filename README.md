@@ -37,11 +37,6 @@ Hi, I'm Taha Khan, a Computer Science graduate and skilled Full-Stack Developer 
 
 ## Featured Projects
 
-### [NeuroCare Chatbot](https://github.com/Tahadevv/NEUROCARE_CHATBOT)
-AI mental health chatbot powered by Mistral 7B model
-- FastAPI backend with advanced conversational AI
-- Mental health support and guidance system
-- Natural language processing for empathetic responses
 
 ### [Neuro App](https://github.com/Tahadevv/NEURO-APP-BUILD)
 AI-powered mental health companion mobile application
@@ -68,6 +63,12 @@ Robust backend system for Khatta mobile application
 - Node.js with Express.js framework
 - MongoDB database with optimized queries
 - RESTful API design with secure authentication
+
+### [NeuroCare Chatbot](https://github.com/Tahadevv/NEUROCARE_CHATBOT)
+AI mental health chatbot powered by Mistral 7B model
+- FastAPI backend with advanced conversational AI
+- Mental health support and guidance system
+- Natural language processing for empathetic responses
 
 ### [Khatri RAG Chatbot](https://github.com/Tahadevv/khatri-chatbot)
 Enterprise RAG chatbot for Jerolive software company
