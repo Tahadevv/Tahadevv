@@ -79,7 +79,7 @@ Enterprise RAG chatbot for Jerolive software company
 ## Education
 
 **Computer Science Graduate** • Dawood University, Karachi  
-**Front-End Development** • Jawan Pakistan, Karachi
+**Full Stack & Mobile Development** • Jawan Pakistan, Karachi
 
 **Internships:**
 - Information Technology Intern • Ghandhara Tyre Ltd.
